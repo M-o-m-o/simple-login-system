@@ -12,7 +12,7 @@ Manager-only access to view the list of registered users (protected by a separat
 Logs login attempts and when the program is started, including machine info (PC user, hostname, IP).
 
 Simple text file storage (users.txt) for user data and logs.
-"_________________________________________________________________________________________________________________________________________________________________"
+"______________________________________________________________________________________________________________________________________________________"
 ---How to Use---
 Run the script.
 
@@ -25,7 +25,7 @@ Login requires a valid username and password.
 After login, you can view a secret, see users (manager access only), or exit.
 
 The manager password is "AAAA" (hashed internally).
-"_________________________________________________________________________________________________________________________________________________________________________________________"
+"______________________________________________________________________________________________________________________________________________________"
 ---Requirements---
 Python 3.x
 
@@ -44,5 +44,5 @@ Passwords are hashed with SHA-256 before storage.
 The manager password is hardcoded as "AAAA" for simplicity; consider improving this in the future.
 
 This is a basic example and not production-ready for real-world secure authentication.
-"_________________________________________________________________________________________________________________________________________________________________________________________"
+"_______________________________________________________________________________________________________________________________________________________"
 
