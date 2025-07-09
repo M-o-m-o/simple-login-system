@@ -2,7 +2,7 @@
 Simple User Authentication System
 A basic Python program that manages user registration and login with hashed passwords. It includes a manager password to view registered users, and logs login attempts and program usage.
 
-                         ---Features---
+                                                                         ---Features---
 
 User registration with username and SHA-256 hashed password storage.
 
@@ -14,7 +14,7 @@ Logs login attempts and when the program is started, including machine info (PC 
 
 Simple text file storage (users.txt) for user data and logs.
 "______________________________________________________________________________________________________________________________________________________"
-                        ---How to Use---
+                                                                        ---How to Use---
 Run the script.
 
 Choose to log in, register, or exit.
@@ -27,7 +27,7 @@ After login, you can view a secret, see users (manager access only), or exit.
 
 The manager password is "AAAA" (hashed internally).
 "______________________________________________________________________________________________________________________________________________________"
-                        ---Requirements---
+                                                                        ---Requirements---
 Python 3.x
 
 Modules: getpass, socket, time, hashlib (all standard libraries)
