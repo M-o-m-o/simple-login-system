@@ -12,7 +12,7 @@ Manager-only access to view the list of registered users (protected by a separat
 Logs login attempts and when the program is started, including machine info (PC user, hostname, IP).
 
 Simple text file storage (users.txt) for user data and logs.
-"_________________________________________________________________________________________________________________________________________________________________________________________"
+"_________________________________________________________________________________________________________________________________________________________________"
 ---How to Use---
 Run the script.
 
